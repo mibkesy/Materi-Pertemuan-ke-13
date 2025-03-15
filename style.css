@@ -1,0 +1,39 @@
+body {
+	background: darkblue;
+	font-family: cursive;
+}
+
+h2 {
+	color: transparent;
+}
+
+.login {
+	padding: 3em;
+	margin: 4em auto;
+	width: 18em;
+	background: darkblue;
+	border-radius: 5px;
+}
+
+label {
+	font-size: 16pt;
+	color: transparent;
+}
+
+input[type=t"text"],
+input[type=button],
+textarea {
+	padding: 10px;
+	width: 99px;
+	background: fixed;
+	border: 0;
+	font-size: 16pt;
+	margin: 9px 0px;
+}
+
+.button {
+	background: transparent;
+	color: darkblue;
+	border: 0;
+	padding: 9px 0px;
+}
